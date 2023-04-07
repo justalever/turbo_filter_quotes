@@ -14,3 +14,7 @@ It's important to note that this functionality is completely possible with legac
 Additionally, we can now embed forms that render in place to edit specific quotes on the fly.
 
 Hotwire brings us a lot of power which is very exciting to see as you begin to construct applications that used to take loads of JavaScript, JSON, and third-party libraries to get the job done.
+
+
+- 📺 [Watch video](https://youtu.be/ThDpy4c0GdI)
+- 📕 [Read blog post](https://web-crunch.com/posts/hotwire-and-rails-data-filtering)
